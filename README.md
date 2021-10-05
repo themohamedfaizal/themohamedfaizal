@@ -1,4 +1,4 @@
-### Hi there 👋 I am [Mohamed Faizal](https://www.instagram.com/jafer.in/)
+### Hi there 👋 I am [Mohamed Faizal](https://www.instagram.com/jafer.in/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
 
 <!--
 **iamfaizaljafer/iamfaizaljafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # DevOps Engineer
 
+I am a DevOps Engineer, haivng more than 5 years of IT experience. Currenlty in process of exploring the DevOps lifestyle.
 
-## Skillset
+
+## 💬 Ask me about
 
 #### AWS cloud: IAM, EC2, Load balancers, ASG, S3, Route 53, VPC, Couldwatch, RDS.
 
