@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Instagram](https://www.instagram.com/jafer.in/)
+You could always reach me at [Instagram](https://www.instagram.com/jafer.in/)
 
 
 # DevOps Engineer
