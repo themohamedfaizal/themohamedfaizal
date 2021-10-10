@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You could always reach me at [Instagram](https://www.instagram.com/jafer.in/)
+You could always reach me at **themohamedfaizal@gmail.com**
+
+[Instagram](https://www.instagram.com/jafer.in/)
 
 
 # DevOps Engineer
