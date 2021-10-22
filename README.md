@@ -1,4 +1,4 @@
-### Hi there 👋 I am [Mohamed Faizal](https://www.instagram.com/jafer.in/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
+### Hi there 👋 I am [Mohamed Faizal](https://www.instagram.com/themohamedfaizal/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
 
 <!--
 **iamfaizaljafer/iamfaizaljafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
