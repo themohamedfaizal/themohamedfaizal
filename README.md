@@ -35,7 +35,7 @@ I am a DevOps Engineer, haivng more than 5 years of IT experience. Currenlty in 
 
 #### Database: Oracle 11g/12c, PostgreSQL. 
 
-#### Programming: Python, Shell scripting, PL/SQL.
+#### Programming: Python, Shell scripting.
 
 #### DevOps: Docker, Kubernetes.
 
