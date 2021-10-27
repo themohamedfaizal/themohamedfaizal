@@ -29,8 +29,11 @@ DevOps Engineer, with more than 5 years of IT experience. Currenlty in process o
 
 ## 💬 Ask me about
 
-#### AWS cloud: IAM, EC2, Load balancers, ASG, S3, Route 53, VPC, Couldwatch, RDS.
+<img src="https://user-images.githubusercontent.com/91851332/139103507-f4890e79-158c-4e8f-b59f-864cbc397467.png" width="145px"> **IAM, EC2, Load balancers, ASG, S3, Route 53, VPC, Couldwatch, RDS.**
 
+
+
+#### AWS cloud: 
 #### Version Control: Git and GitHub.
 
 #### Operating systems: Linux (RHEL, CentOS), Windows.
