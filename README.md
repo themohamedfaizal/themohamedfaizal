@@ -24,7 +24,7 @@ You could always reach me at **themohamedfaizal@gmail.com**
 
 # DevOps Engineer
 
-I am a DevOps Engineer, haivng more than 5 years of IT experience. Currenlty in process of exploring the DevOps lifestyle.
+DevOps Engineer, with more than 5 years of IT experience. Currenlty in process of exploring the DevOps lifestyle.
 
 
 ## 💬 Ask me about
