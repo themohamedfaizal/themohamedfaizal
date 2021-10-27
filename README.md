@@ -1,4 +1,4 @@
-### Hi there 👋 I am [Mohamed Faizal](https://www.instagram.com/themohamedfaizal/) <img src="https://user-images.githubusercontent.com/91851332/139095449-8fab0db0-3ec3-4423-aa99-a5e1a8b3a73d.png" width="45px">
+### Hi there 👋 I am [Mohamed Faizal](https://www.instagram.com/themohamedfaizal/) <img src="https://github.com/themohamedfaizal/themohamedfaizal/blob/main/Designs/Developer.gif" width="45px">
 
 
 
