@@ -29,32 +29,17 @@ DevOps Engineer, with more than 5 years of IT experience. Currenlty in process o
 
 ## 💬 Ask me about
 
-<img src="https://user-images.githubusercontent.com/91851332/139103507-f4890e79-158c-4e8f-b59f-864cbc397467.png" width="145px"> **IAM, EC2, Load balancers, ASG, S3, Route 53, VPC, Couldwatch, RDS.**
+<img src="https://user-images.githubusercontent.com/91851332/139104706-9036a144-ac9d-441b-a26e-abec975912ee.png" width="85px"> <img src="https://user-images.githubusercontent.com/91851332/139103507-f4890e79-158c-4e8f-b59f-864cbc397467.png" width="145px"> <img src="https://user-images.githubusercontent.com/91851332/139105072-ed93ecf1-870e-4986-9ba2-ff987ae288e0.png" width="95px"> <img src="https://user-images.githubusercontent.com/91851332/139106156-df215edc-df09-427c-8975-3164ac4939c4.png" width="125px">
 
 
+![image](https://user-images.githubusercontent.com/91851332/139105766-29d4728d-e6a9-458e-9955-cd05e1025201.png)
 
-#### AWS cloud: 
-#### Version Control: Git and GitHub.
 
-#### Operating systems: Linux (RHEL, CentOS), Windows.
-
-#### Database: Oracle 11g/12c, PostgreSQL. 
-
-#### Programming: Python, Shell scripting.
-
-#### DevOps: Docker, Kubernetes.
+#### Git and GitHub.
 
 #### Networking: Aruba – Airwave, Clearpass, Controllers and Instant Aps.
 
-#### Virtualization: VMware. 
-
-#### ITIL: Incident Management, Change Management and Problem Management.
-
-#### Software: Putty, WireShark, MS office suite.
-
-#### Monitoring tools: AirWave, Hp-BSM, Logic monitor, and Orion.
-
-#### Ticketing tools: Salesforce, ServiceNow.
+#### AirWave, Hp-BSM, Logic monitor, and Orion.
 
 #### Networking: TCP/IP, Subnetting, DHCP, DNS, VTP, Router maintenance, IP protocols, ACL, NAT.
 
