@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 Reach me: **themohamedfaizal@gmail.com** | [Instagram](https://www.instagram.com/themohamedfaizal/)
+📫 Reach me: **themohamedfaizal@gmail.com** | **[Instagram](https://www.instagram.com/themohamedfaizal/)**
 
 
 # DevOps Engineer
