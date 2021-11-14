@@ -24,22 +24,19 @@ Here are some ideas to get you started:
 
 DevOps Engineer, with more than 5 years of IT experience. Currenlty in process of exploring the DevOps lifestyle.
 
+## ⚡ Certifications
+
+
+<img src="https://user-images.githubusercontent.com/91851332/141673202-686f7899-688d-416e-afac-a87950faa986.png" width="100px">
 
 ## 💬 Ask me about
-
-<img src="https://user-images.githubusercontent.com/91851332/139104706-9036a144-ac9d-441b-a26e-abec975912ee.png" width="85px"> <img src="https://user-images.githubusercontent.com/91851332/139103507-f4890e79-158c-4e8f-b59f-864cbc397467.png" width="145px"> <img src="https://user-images.githubusercontent.com/91851332/139105072-ed93ecf1-870e-4986-9ba2-ff987ae288e0.png" width="95px"> <img src="https://user-images.githubusercontent.com/91851332/139106156-df215edc-df09-427c-8975-3164ac4939c4.png" width="125px">
-
-
-![image](https://user-images.githubusercontent.com/91851332/139105766-29d4728d-e6a9-458e-9955-cd05e1025201.png)
+<img src="https://user-images.githubusercontent.com/91851332/139103507-f4890e79-158c-4e8f-b59f-864cbc397467.png" width="145px"><img src="https://user-images.githubusercontent.com/91851332/141673355-f808ba5a-4c22-433f-8e59-a17e10c833c8.png" width="150px"><img src="https://user-images.githubusercontent.com/91851332/139105072-ed93ecf1-870e-4986-9ba2-ff987ae288e0.png" width="95px"> <img src="https://user-images.githubusercontent.com/91851332/139106156-df215edc-df09-427c-8975-3164ac4939c4.png" width="125px">
 
 
-#### Git and GitHub.
+<!---
+<img src="https://user-images.githubusercontent.com/91851332/139104706-9036a144-ac9d-441b-a26e-abec975912ee.png" width="85px"> 
+--->
 
-#### Networking: Aruba – Airwave, Clearpass, Controllers and Instant Aps.
-
-#### AirWave, Hp-BSM, Logic monitor, and Orion.
-
-#### Networking: TCP/IP, Subnetting, DHCP, DNS, VTP, Router maintenance, IP protocols, ACL, NAT.
 
 
 <!---
